@@ -3,7 +3,7 @@
 # @Time           : 17-7-4 上午11:21
 # @Author         : Tom.Lee
 # @Description    : http://blog.csdn.net/gzlaiyonghao/article/details/1483728 
-# @File           : test.py
+# @File           : celery_task.py
 # @Product        : PyCharm
 
 import re

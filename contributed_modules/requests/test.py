@@ -3,7 +3,7 @@
 # @Time           : 17-7-25 下午3:08
 # @Author         : Tom.Lee
 # @CopyRight      : 2016-2017 OpenBridge by yihecloud
-# @File           : test.py
+# @File           : celery_task.py
 # @Product        : PyCharm
 
 from restful import TestCase

@@ -52,7 +52,7 @@ tasks.py
 ```python
 #! /bin/python
 
-from celery import Celery
+from celery_test import Celery
 
 broker = 'redis://127.0.0.1:6379/5'
 backend = 'redis://127.0.0.1:6379/6'

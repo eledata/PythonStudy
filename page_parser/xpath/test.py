@@ -3,7 +3,7 @@
 # @Time    : 17-5-6 下午1:10
 # @Author  : tom.lee
 # @Site    : 
-# @File    : test.py
+# @File    : celery_task.py
 # @Software: PyCharm
 
 
